@@ -1,0 +1,12 @@
+{
+  "name": "studi_js",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.1.x",
+    "url": "0.7.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
